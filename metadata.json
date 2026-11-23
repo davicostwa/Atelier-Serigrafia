@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Serigrafia",
+  "description": "Gerador de assets visuais orgânicos com estética serigráfica, junções com ink bleed, animações cíclicas suaves e exportação em SVG vetor e PNG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
